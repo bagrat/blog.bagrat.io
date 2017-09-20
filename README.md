@@ -1,2 +1,3 @@
-# blog.bagrat.io
-trying to write stuff
+# My Blog?
+
+trying to write stuff at [blog.bagrat.io](http://blog.bagrat.io).
